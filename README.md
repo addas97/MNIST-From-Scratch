@@ -1,0 +1,1 @@
+Here, using only Numpy, we create a multi-layer neural network to recognize handwritten digits from the Modified National Institute of Standards and Technology (MNIST) database, complete with forward and back propagations. I have also included a learning rate test below for your own learning pleasure!
